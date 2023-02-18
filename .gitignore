@@ -1,2 +1,4 @@
 *venv
 .devops
+hadolint
+minikube-linux-amd64
